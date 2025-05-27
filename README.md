@@ -58,6 +58,8 @@
 
 -  https://excalidraw.com/
 - https://docusaurus.io/showcase
+- https://mdxjs.com/
+- [Tuckman's stages of group development](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development)
 
 </details>
 
