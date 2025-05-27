@@ -9,14 +9,13 @@ In this lab, you will explore the fundamentals of Docusaurus by working with an 
 
 ### **Step 1: Fork and Clone the Repository**  
 
-1. Fork the following GitHub repository: [FedericoTartarini.github.io](https://github.com/FedericoTartarini/FedericoTartarini.github.io).  
-2. Clone the repository to the local machine using:  
+1. Clone the repository to the local machine using:  
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/FedericoTartarini.github.io.git
-   cd FedericoTartarini.github.io
+   git clone https://github.com/FedericoTartarini/FedericoTartarini.github.io lab3
+   cd lab3
    ```
-
+2. Remove the `.git` folder: In bash `rm -rf .git`, In PowerShell `Remove-Item -Path ".git" -Recurse -Force`
 3. Install Dependencies and Fix Outdated Packages
 
 Once inside the project directory, you should install the necessary dependencies by running:  
